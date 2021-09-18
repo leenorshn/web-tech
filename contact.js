@@ -1,0 +1,73 @@
+const contacts = [
+  {
+    id: 1,
+    url: "https://i.stack.imgur.com/l60Hf.png",
+    name: "victor leenorshn",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 2,
+    url: "https://p.favim.com/orig/2018/09/21/girl-pfp-care-free-profile-picture-Favim.com-6340863.jpg",
+    name: "Onesime",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 3,
+    url: "https://p.favim.com/orig/2018/09/01/girl-cute-profile-pictures-Favim.com-6212415.png",
+    name: "Kapita jhon",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 4,
+    url: "https://p.favim.com/orig/2019/01/06/green-girl-icon-icon-Favim.com-6751904.jpg",
+    name: "nadege Kahindo",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 5,
+    url: "https://p.favim.com/orig/2018/09/21/girl-pfp-care-free-profile-picture-Favim.com-6340863.jpg",
+    name: "Onesime",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 6,
+    url: "https://p.favim.com/orig/2018/09/01/girl-cute-profile-pictures-Favim.com-6212415.png",
+    name: "Kapita jhon",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 7,
+    url: "https://p.favim.com/orig/2019/01/06/green-girl-icon-icon-Favim.com-6751904.jpg",
+    name: "nadege Kahindo",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 8,
+    url: "https://p.favim.com/orig/2018/09/21/girl-pfp-care-free-profile-picture-Favim.com-6340863.jpg",
+    name: "Onesime",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 9,
+    url: "https://p.favim.com/orig/2018/09/01/girl-cute-profile-pictures-Favim.com-6212415.png",
+    name: "Kapita jhon",
+    phone: "+243978154329",
+    date: Date(),
+  },
+  {
+    id: 10,
+    url: "https://p.favim.com/orig/2019/01/06/green-girl-icon-icon-Favim.com-6751904.jpg",
+    name: "nadege Kahindo",
+    phone: "+243978154329",
+    date: Date(),
+  },
+];
+module.exports = contacts;
